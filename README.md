@@ -1,2 +1,2 @@
-# chainer-pos-tagger
+# pos-tagger
 Simple POS tagger
